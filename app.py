@@ -3,7 +3,7 @@
 from flask import Flask, Flask, render_template, request, url_for, flash, redirect
 app = Flask(__name__)
 
-app.config['SECRET_KEY'] = 'Rising@l3x'
+app.config['SECRET_KEY'] = ''
 
 
 @app.route("/")
