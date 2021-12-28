@@ -1,0 +1,11 @@
+body {
+    padding-top: 50px;
+}
+.top-pad {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+main > .container {
+  padding: 60px 15px 0;
+}
